@@ -1,0 +1,199 @@
+user_id,first_name,last_name,gender,age,city,postal_code,cart_id,product_id,quantity,price,total_cart_value
+33,Carter,Baker,male,31,Denver,74622,1,168,3,32999.99,103774.85
+33,Carter,Baker,male,31,Denver,74622,1,78,2,1999.99,103774.85
+33,Carter,Baker,male,31,Denver,74622,1,183,5,24.99,103774.85
+33,Carter,Baker,male,31,Denver,74622,1,100,5,129.99,103774.85
+142,Aria,Parker,female,27,Phoenix,16573,2,144,4,44.99,4794.8
+142,Aria,Parker,female,27,Phoenix,16573,2,124,4,899.99,4794.8
+142,Aria,Parker,female,27,Phoenix,16573,2,148,4,9.99,4794.8
+142,Aria,Parker,female,27,Phoenix,16573,2,122,3,299.99,4794.8
+142,Aria,Parker,female,27,Phoenix,16573,2,110,5,14.99,4794.8
+108,James,Garcia,male,45,Washington,54618,3,98,1,13999.99,16775.87
+108,James,Garcia,male,45,Washington,54618,3,125,5,249.99,16775.87
+108,James,Garcia,male,45,Washington,54618,3,55,2,6.99,16775.87
+108,James,Garcia,male,45,Washington,54618,3,62,2,5.99,16775.87
+108,James,Garcia,male,45,Washington,54618,3,132,3,499.99,16775.87
+87,Hunter,Gordon,male,33,Charlotte,77521,4,187,5,49.99,456.83
+87,Hunter,Gordon,male,33,Charlotte,77521,4,40,5,3.99,456.83
+87,Hunter,Gordon,male,33,Charlotte,77521,4,156,5,34.99,456.83
+87,Hunter,Gordon,male,33,Charlotte,77521,4,62,2,5.99,456.83
+134,Nora,Russell,female,24,Charlotte,77947,5,108,2,29.99,7431.3
+134,Nora,Russell,female,24,Charlotte,77947,5,138,5,8.99,7431.3
+134,Nora,Russell,female,24,Charlotte,77947,5,157,2,19.99,7431.3
+134,Nora,Russell,female,24,Charlotte,77947,5,8,3,89.99,7431.3
+134,Nora,Russell,female,24,Charlotte,77947,5,80,5,1399.99,7431.3
+134,Nora,Russell,female,24,Charlotte,77947,5,28,3,5.49,7431.3
+150,Stella,Morris,female,39,San Diego,80524,6,172,5,49.99,35199.86
+150,Stella,Morris,female,39,San Diego,80524,6,112,3,499.99,35199.86
+150,Stella,Morris,female,39,San Diego,80524,6,97,3,10999.99,35199.86
+150,Stella,Morris,female,39,San Diego,80524,6,128,3,149.99,35199.86
+86,Nora,Mills,female,26,San Jose,51983,7,167,5,28999.99,145651.89
+86,Nora,Mills,female,26,San Jose,51983,7,111,4,12.99,145651.89
+86,Nora,Mills,female,26,San Jose,51983,7,129,2,299.99,145651.89
+23,Chloe,Morales,female,39,Dallas,54972,8,117,2,7499.99,15685.86
+23,Chloe,Morales,female,39,Dallas,54972,8,18,4,8.99,15685.86
+23,Chloe,Morales,female,39,Dallas,54972,8,105,5,99.99,15685.86
+23,Chloe,Morales,female,39,Dallas,54972,8,6,3,49.99,15685.86
+194,Brayden,Hill,male,45,Austin,40298,9,178,2,89.99,65529.87
+194,Brayden,Hill,male,45,Austin,40298,9,191,4,15999.99,65529.87
+194,Brayden,Hill,male,45,Austin,40298,9,47,2,49.99,65529.87
+194,Brayden,Hill,male,45,Austin,40298,9,134,5,249.99,65529.87
+160,Claire,Foster,female,29,San Jose,33308,10,190,5,4999.99,29499.92
+160,Claire,Foster,female,29,San Jose,33308,10,94,3,1499.99,29499.92
+172,Ariana,Ross,female,36,Chicago,59220,11,88,1,149.99,568.36
+172,Ariana,Ross,female,36,Chicago,59220,11,32,3,3.49,568.36
+172,Ariana,Ross,female,36,Chicago,59220,11,74,3,4.99,568.36
+172,Ariana,Ross,female,36,Chicago,59220,11,145,3,29.99,568.36
+172,Ariana,Ross,female,36,Chicago,59220,11,26,3,0.99,568.36
+172,Ariana,Ross,female,36,Chicago,59220,11,127,1,299.99,568.36
+202,Caleb,Nelson,male,36,Philadelphia,22625,12,63,4,7.99,931.91
+202,Caleb,Nelson,male,36,Philadelphia,22625,12,181,5,179.99,931.91
+41,Evan,Reed,male,32,San Antonio,19937,13,85,2,34.99,793.07
+41,Evan,Reed,male,32,San Antonio,19937,13,109,3,19.99,793.07
+41,Evan,Reed,male,32,San Antonio,19937,13,160,1,599.99,793.07
+41,Evan,Reed,male,32,San Antonio,19937,13,163,3,19.99,793.07
+41,Evan,Reed,male,32,San Antonio,19937,13,31,4,0.79,793.07
+94,Ruby,Andrews,female,28,Dallas,85259,14,92,3,109.99,586.82
+94,Ruby,Andrews,female,28,Dallas,85259,14,54,5,8.99,586.82
+94,Ruby,Andrews,female,28,Dallas,85259,14,76,1,11.99,586.82
+94,Ruby,Andrews,female,28,Dallas,85259,14,44,5,29.99,586.82
+94,Ruby,Andrews,female,28,Dallas,85259,14,67,3,15.99,586.82
+94,Ruby,Andrews,female,28,Dallas,85259,14,16,1,1.99,586.82
+11,Liam,Garcia,male,29,Denver,57252,15,11,5,1899.99,11741.31
+11,Liam,Garcia,male,29,Denver,57252,15,133,3,699.99,11741.31
+11,Liam,Garcia,male,29,Denver,57252,15,111,3,12.99,11741.31
+11,Liam,Garcia,male,29,Denver,57252,15,162,3,29.99,11741.31
+11,Liam,Garcia,male,29,Denver,57252,15,30,5,2.49,11741.31
+200,Adrian,Flores,male,43,New York,60163,16,19,2,9.99,172.24
+200,Adrian,Flores,male,43,New York,60163,16,152,3,49.99,172.24
+200,Adrian,Flores,male,43,New York,60163,16,35,1,2.29,172.24
+141,Owen,Sullivan,male,43,Charlotte,78780,17,1,2,9.99,192.87
+141,Owen,Sullivan,male,43,Charlotte,78780,17,60,3,10.99,192.87
+141,Owen,Sullivan,male,43,Charlotte,78780,17,74,4,4.99,192.87
+141,Owen,Sullivan,male,43,Charlotte,78780,17,44,4,29.99,192.87
+189,Tristan,Scott,male,30,San Diego,74135,18,127,4,299.99,1464.78
+189,Tristan,Scott,male,30,San Diego,74135,18,24,3,14.99,1464.78
+189,Tristan,Scott,male,30,San Diego,74135,18,20,5,4.99,1464.78
+189,Tristan,Scott,male,30,San Diego,74135,18,154,3,29.99,1464.78
+189,Tristan,Scott,male,30,San Diego,74135,18,44,2,29.99,1464.78
+189,Tristan,Scott,male,30,San Diego,74135,18,5,5,8.99,1464.78
+59,Ethan,Fletcher,male,33,Dallas,87924,19,187,3,49.99,933.87
+59,Ethan,Fletcher,male,33,Dallas,87924,19,153,5,11.99,933.87
+59,Ethan,Fletcher,male,33,Dallas,87924,19,34,3,7.99,933.87
+59,Ethan,Fletcher,male,33,Dallas,87924,19,130,2,349.99,933.87
+90,Scarlett,Bowman,female,27,New York,63825,20,107,1,49.99,3534.78
+90,Scarlett,Bowman,female,27,New York,63825,20,193,3,799.99,3534.78
+90,Scarlett,Bowman,female,27,New York,63825,20,100,3,129.99,3534.78
+90,Scarlett,Bowman,female,27,New York,63825,20,90,5,89.99,3534.78
+90,Scarlett,Bowman,female,27,New York,63825,20,118,5,8.99,3534.78
+90,Scarlett,Bowman,female,27,New York,63825,20,166,5,39.99,3534.78
+42,Avery,Carter,female,28,San Diego,13916,21,77,2,5.99,251.96
+42,Avery,Carter,female,28,San Diego,13916,21,91,2,119.99,251.96
+140,Hannah,Howard,female,35,Indianapolis,72695,22,73,5,19.99,222.88
+140,Hannah,Howard,female,35,Indianapolis,72695,22,2,2,19.99,222.88
+140,Hannah,Howard,female,35,Indianapolis,72695,22,69,2,3.99,222.88
+140,Hannah,Howard,female,35,Indianapolis,72695,22,155,3,24.99,222.88
+147,Henry,Turner,male,44,Philadelphia,41914,23,82,5,1499.99,7757.8
+147,Henry,Turner,male,44,Philadelphia,41914,23,172,4,49.99,7757.8
+147,Henry,Turner,male,44,Philadelphia,41914,23,41,2,2.49,7757.8
+147,Henry,Turner,male,44,Philadelphia,41914,23,37,4,1.99,7757.8
+147,Henry,Turner,male,44,Philadelphia,41914,23,138,5,8.99,7757.8
+6,Olivia,Wilson,female,22,Fort Worth,83843,24,108,5,29.99,1749.9
+6,Olivia,Wilson,female,22,Fort Worth,83843,24,134,4,249.99,1749.9
+6,Olivia,Wilson,female,22,Fort Worth,83843,24,174,1,599.99,1749.9
+118,Benjamin,Wilson,male,30,Philadelphia,47295,25,4,1,12.99,412.98
+118,Benjamin,Wilson,male,30,Philadelphia,47295,25,126,1,399.99,412.98
+66,Aria,Ferguson,female,27,San Diego,59501,26,37,5,1.99,459.92
+66,Aria,Ferguson,female,27,San Diego,59501,26,128,3,149.99,459.92
+75,Ryan,Graham,male,31,San Antonio,44329,27,33,1,4.99,190.89
+75,Ryan,Graham,male,31,San Antonio,44329,27,110,2,14.99,190.89
+75,Ryan,Graham,male,31,San Antonio,44329,27,16,3,1.99,190.89
+75,Ryan,Graham,male,31,San Antonio,44329,27,83,5,29.99,190.89
+147,Henry,Turner,male,44,Philadelphia,41914,28,1,5,9.99,209.91
+147,Henry,Turner,male,44,Philadelphia,41914,28,141,4,39.99,209.91
+170,Penelope,King,female,33,Los Angeles,35724,29,80,2,1399.99,3862.43
+170,Penelope,King,female,33,Los Angeles,35724,29,107,4,49.99,3862.43
+170,Penelope,King,female,33,Los Angeles,35724,29,25,2,1.29,3862.43
+170,Penelope,King,female,33,Los Angeles,35724,29,121,4,199.99,3862.43
+170,Penelope,King,female,33,Los Angeles,35724,29,153,5,11.99,3862.43
+177,Xavier,Wright,male,37,Jacksonville,37262,30,181,1,179.99,128249.07
+177,Xavier,Wright,male,37,Jacksonville,37262,30,171,4,31999.99,128249.07
+177,Xavier,Wright,male,37,Jacksonville,37262,30,35,4,2.29,128249.07
+177,Xavier,Wright,male,37,Jacksonville,37262,30,46,4,14.99,128249.07
+143,Grayson,Coleman,male,30,San Francisco,82802,31,41,4,2.49,4749.87
+143,Grayson,Coleman,male,30,San Francisco,82802,31,10,3,79.99,4749.87
+143,Grayson,Coleman,male,30,San Francisco,82802,31,124,3,899.99,4749.87
+143,Grayson,Coleman,male,30,San Francisco,82802,31,160,3,599.99,4749.87
+164,Addison,Ward,female,29,San Francisco,20149,32,134,2,249.99,65519.87
+164,Addison,Ward,female,29,San Francisco,20149,32,97,5,10999.99,65519.87
+164,Addison,Ward,female,29,San Francisco,20149,32,190,2,4999.99,65519.87
+164,Addison,Ward,female,29,San Francisco,20149,32,20,4,4.99,65519.87
+181,Brandon,Collins,male,26,Dallas,62698,33,105,2,99.99,229.93
+181,Brandon,Collins,male,26,Dallas,62698,33,49,5,5.99,229.93
+203,Nova,Cooper,female,31,Los Angeles,49131,34,89,5,79.99,830.83
+203,Nova,Cooper,female,31,Los Angeles,49131,34,93,4,89.99,830.83
+203,Nova,Cooper,female,31,Los Angeles,49131,34,55,3,6.99,830.83
+203,Nova,Cooper,female,31,Los Angeles,49131,34,57,5,9.99,830.83
+153,Christian,Perez,male,31,Chicago,35579,35,104,5,19.99,417.87
+153,Christian,Perez,male,31,Chicago,35579,35,54,2,8.99,417.87
+153,Christian,Perez,male,31,Chicago,35579,35,152,1,49.99,417.87
+153,Christian,Perez,male,31,Chicago,35579,35,56,5,49.99,417.87
+176,Aaliyah,Martinez,female,28,New York,60165,36,26,1,0.99,1875.89
+176,Aaliyah,Martinez,female,28,New York,60165,36,165,5,24.99,1875.89
+176,Aaliyah,Martinez,female,28,New York,60165,36,106,5,349.99,1875.89
+33,Carter,Baker,male,31,Denver,74622,37,171,5,31999.99,160289.86
+33,Carter,Baker,male,31,Denver,74622,37,71,4,39.99,160289.86
+33,Carter,Baker,male,31,Denver,74622,37,68,4,24.99,160289.86
+33,Carter,Baker,male,31,Denver,74622,37,182,1,29.99,160289.86
+15,William,Gonzalez,male,32,San Jose,78243,38,44,5,29.99,3359.79
+15,William,Gonzalez,male,32,San Jose,78243,38,68,3,24.99,3359.79
+15,William,Gonzalez,male,32,San Jose,78243,38,149,4,49.99,3359.79
+15,William,Gonzalez,male,32,San Jose,78243,38,139,3,24.99,3359.79
+15,William,Gonzalez,male,32,San Jose,78243,38,150,2,29.99,3359.79
+15,William,Gonzalez,male,32,San Jose,78243,38,133,4,699.99,3359.79
+81,Austin,Hudson,male,29,Los Angeles,64305,39,179,3,79.99,44376.84
+81,Austin,Hudson,male,29,Los Angeles,64305,39,39,1,1.99,44376.84
+81,Austin,Hudson,male,29,Los Angeles,64305,39,143,1,29.99,44376.84
+81,Austin,Hudson,male,29,Los Angeles,64305,39,18,4,8.99,44376.84
+81,Austin,Hudson,male,29,Los Angeles,64305,39,158,3,22.99,44376.84
+81,Austin,Hudson,male,29,Los Angeles,64305,39,97,4,10999.99,44376.84
+187,Zachary,Lee,male,36,Dallas,60280,40,138,1,8.99,98499.82
+187,Zachary,Lee,male,36,Dallas,60280,40,51,2,39.99,98499.82
+187,Zachary,Lee,male,36,Dallas,60280,40,101,4,549.99,98499.82
+187,Zachary,Lee,male,36,Dallas,60280,40,153,3,11.99,98499.82
+187,Zachary,Lee,male,36,Dallas,60280,40,164,5,34.99,98499.82
+187,Zachary,Lee,male,36,Dallas,60280,40,171,3,31999.99,98499.82
+184,Natalie,Price,female,28,Washington,76767,41,25,4,1.29,944.0
+184,Natalie,Price,female,28,Washington,76767,41,50,1,9.99,944.0
+184,Natalie,Price,female,28,Washington,76767,41,151,4,6.99,944.0
+184,Natalie,Price,female,28,Washington,76767,41,42,1,0.99,944.0
+184,Natalie,Price,female,28,Washington,76767,41,10,5,79.99,944.0
+184,Natalie,Price,female,28,Washington,76767,41,103,5,99.99,944.0
+67,Gabriel,Hayes,male,34,San Jose,63269,42,113,3,3999.99,12059.93
+67,Gabriel,Hayes,male,34,San Jose,63269,42,64,4,14.99,12059.93
+35,Jack,Ward,male,29,Phoenix,42061,43,182,1,29.99,179.96
+35,Jack,Ward,male,29,Phoenix,42061,43,149,3,49.99,179.96
+20,Jackson,Evans,male,34,New York,26600,44,93,3,89.99,460.87
+20,Jackson,Evans,male,34,New York,26600,44,4,2,12.99,460.87
+20,Jackson,Evans,male,34,New York,26600,44,140,5,14.99,460.87
+20,Jackson,Evans,male,34,New York,26600,44,83,3,29.99,460.87
+50,Stella,Hughes,female,33,Jacksonville,24463,45,50,2,9.99,260.89
+50,Stella,Hughes,female,33,Jacksonville,24463,45,29,4,3.99,260.89
+50,Stella,Hughes,female,33,Jacksonville,24463,45,144,5,44.99,260.89
+93,Julian,Newton,male,34,Fort Worth,33623,46,79,2,1799.99,3603.97
+93,Julian,Newton,male,34,Fort Worth,33623,46,69,1,3.99,3603.97
+23,Chloe,Morales,female,39,Dallas,54972,47,92,1,109.99,457.86
+23,Chloe,Morales,female,39,Dallas,54972,47,93,3,89.99,457.86
+23,Chloe,Morales,female,39,Dallas,54972,47,38,4,5.99,457.86
+23,Chloe,Morales,female,39,Dallas,54972,47,33,3,4.99,457.86
+23,Chloe,Morales,female,39,Dallas,54972,47,53,3,12.99,457.86
+33,Carter,Baker,male,31,Denver,74622,48,40,2,3.99,10007.96
+33,Carter,Baker,male,31,Denver,74622,48,190,2,4999.99,10007.96
+86,Nora,Mills,female,26,San Jose,51983,49,15,4,799.99,7016.77
+86,Nora,Mills,female,26,San Jose,51983,49,76,3,11.99,7016.77
+86,Nora,Mills,female,26,San Jose,51983,49,39,3,1.99,7016.77
+86,Nora,Mills,female,26,San Jose,51983,49,158,5,22.99,7016.77
+86,Nora,Mills,female,26,San Jose,51983,49,110,4,14.99,7016.77
+86,Nora,Mills,female,26,San Jose,51983,49,124,4,899.99,7016.77
+52,Grace,Perry,female,26,Seattle,61720,50,25,1,1.29,36.28
+52,Grace,Perry,female,26,Seattle,61720,50,85,1,34.99,36.28
