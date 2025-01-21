@@ -45,3 +45,16 @@ output "composer_environment_gke_cluster" {
   description = "GKE cluster used by the Cloud Composer environment"
   value       = google_composer_environment.ecommerce_airflow.config[0].gke_cluster
 }
+
+#output "composer_bucket" {
+#  description = "The Cloud Storage bucket created for the Cloud Composer environment"
+#  value       = replace(
+#    google_composer_environment.ecommerce_airflow.config[0].dag_gcs_prefix,
+#    "/dags", ""
+#  )
+#}
+
+#output "composer_dags_folder" {
+#  description = "The Cloud Storage path to the DAGs folder"
+#  value       = google_composer_environment.ecommerce_airflow.config[0].dag_gcs_prefix
+#}
